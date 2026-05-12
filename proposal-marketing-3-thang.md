@@ -16,7 +16,7 @@ Tệp khách hàng nên ưu tiên trong 12 tháng đầu là:
 - đang xây mới hoặc hoàn thiện
 - nằm trong khu vực xưởng thi công thuận lợi
 - có band giá phổ biến khoảng 80-130 triệu
-- ra quyết định dựa nhiều vào công trình thật, độ tin cậy và gi��i thiệu từ người quen
+- ra quyết định dựa nhiều vào công trình thật, độ tin cậy và giới thiệu từ người quen
 
 Vì vậy, chiến lược 3 tháng đầu nên tập trung vào:
 - dựng nền hiện diện online đủ tin cậy
