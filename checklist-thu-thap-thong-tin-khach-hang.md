@@ -75,6 +75,10 @@
 - Hạng mục làm tốt nhất:
 - Hạng mục mang lợi nhuận tốt nhất:
 - Dòng sản phẩm làm nhiều nhất:
+- Công suất thi công trung bình mỗi tháng:
+- Số công trình có thể nhận thêm trong 1 tháng mà vẫn đảm bảo chất lượng:
+- Thời gian thi công trung bình cho 1 công trình nhà dân:
+- Bán kính khu vực thi công thuận tiện nhất:
 - Điểm mạnh khi so với đối thủ cùng khu vực:
   - [ ] Xưởng trực tiếp
   - [ ] Giá hợp lý
@@ -89,7 +93,80 @@
 - Lý do hay chốt được khách:
 - Lý do hay mất khách:
 
-## 5. ICP, USP, offer dự kiến `bắt buộc`
+## 5. Tài nguyên doanh nghiệp hiện có `bắt buộc`
+
+### Tài nguyên thương hiệu và bán hàng
+- Đã có logo chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Đã có bộ ảnh nhận diện xưởng chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Đã có bảng báo giá mẫu chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Đã có hồ sơ năng lực hoặc file giới thiệu xưởng chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Đã có bài giới thiệu xưởng dùng cố định chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Đã có album công trình theo khu vực chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+### Tài nguyên nội dung và vận hành marketing
+- Hiện đang lưu ảnh/video ở đâu:
+  - [ ] Điện thoại cá nhân
+  - [ ] Zalo
+  - [ ] Google Drive
+  - [ ] Facebook cá nhân
+  - [ ] Ổ cứng / máy tính
+  - [ ] Khác:
+
+- Mức độ dễ lấy lại ảnh/video cũ:
+  - [ ] Dễ lấy
+  - [ ] Có nhưng hơi rời rạc
+  - [ ] Rất khó gom
+
+- Có danh sách khách hàng cũ tương đối đầy đủ chưa:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có thông tin khu vực của khách cũ không:
+  - [ ] Có khá đầy đủ
+  - [ ] Có một phần
+  - [ ] Gần như chưa có
+
+- Có ghi chú nguồn khách cũ đến từ đâu không:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có ảnh trước-trong-sau của cùng một công trình không:
+  - [ ] Có nhiều
+  - [ ] Có ít
+  - [ ] Gần như chưa có
+
+- Có video test thực tế như đóng mở, độ kín, độ hoàn thiện không:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có công trình đang chạy liên tục để quay trong 2-4 tuần tới không:
+  - [ ] Có
+  - [ ] Không ổn định
+  - [ ] Chưa có
+
+- Có ngân sách riêng cho việc quay dựng cơ bản hoặc hỗ trợ đi lại không:
+  - [ ] Có
+  - [ ] Chưa có
+  - [ ] Có thể linh hoạt nếu cần
+
+## 6. ICP, USP, offer dự kiến `bắt buộc`
 
 ### ICP
 - Nhóm khách muốn tập trung trong 3 tháng đầu:
@@ -125,7 +202,7 @@
 
 - Câu CTA dự kiến dùng:
 
-## 6. Kênh hiện có `bắt buộc`
+## 7. Kênh hiện có `bắt buộc`
 
 ### Facebook
 - Đã có fanpage chưa:
@@ -163,7 +240,7 @@
   - [ ] Có
   - [ ] Chưa
 
-## 7. Tài nguyên content hiện có `bắt buộc`
+## 8. Tài nguyên content hiện có `bắt buộc`
 
 - Có ảnh công trình cũ không:
   - [ ] Có nhiều
@@ -191,7 +268,62 @@
 - Có công trình nào đang thi công để quay ngay không:
 - Có công trình nào đủ đẹp để làm case nổi bật không:
 
-## 8. Danh sách công trình và khách cũ ưu tiên `bắt buộc`
+## 9. Nhân sự và khả năng vận hành `bắt buộc`
+
+### Cơ cấu nhân sự hiện tại
+- Tổng số người đang tham gia vận hành:
+- Số thợ thi công chính:
+- Có tổ trưởng / người quản lý công trình không:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có người chuyên báo giá không:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có người chuyên trả lời inbox không:
+  - [ ] Có
+  - [ ] Chưa
+
+- Có người có thể quay/chụp cơ bản bằng điện thoại không:
+  - [ ] Có
+  - [ ] Chưa
+
+### Năng lực phối hợp nội dung
+- Ai là người dễ phối hợp nhất để lấy thông tin công trình:
+- Ai là người có thể gửi ảnh/video nhanh nhất sau khi thi công:
+- Ai có thể xác nhận thông tin kỹ thuật khi viết content:
+- Ai có thể cho phản hồi nhanh khi cần duyệt nội dung:
+- Nếu cần quay video ngắn tại xưởng hoặc công trình, ai có thể đứng nói hoặc xuất hiện:
+
+### Năng lực xử lý lead và bán hàng
+- Ai là người chốt lịch khảo sát:
+- Ai là người đi khảo sát:
+- Ai là người gửi báo giá:
+- Thời gian phản hồi lead trung bình hiện tại là bao lâu:
+  - [ ] Dưới 15 phút
+  - [ ] Trong 1 giờ
+  - [ ] Trong ngày
+  - [ ] Hôm sau mới trả lời
+
+- Khi bận công trình thì ai thay thế trả lời khách:
+- Mỗi ngày thực tế có thể dành bao nhiêu thời gian để xử lý lead mới:
+
+### Điểm nghẽn về nhân sự
+- Khâu nào đang thiếu người nhất:
+  - [ ] Quay/chụp
+  - [ ] Đăng bài
+  - [ ] Trả lời inbox
+  - [ ] Đi khảo sát
+  - [ ] Báo giá
+  - [ ] Chăm sóc lại khách cũ
+  - [ ] Khác:
+
+- Rủi ro lớn nhất nếu bắt đầu triển khai marketing ngay:
+- Việc gì bên khách chắc chắn làm được mỗi tuần:
+- Việc gì bên khách khó cam kết đều mỗi tuần:
+
+## 10. Danh sách công trình và khách cũ ưu tiên `bắt buộc`
 
 ### Công trình ưu tiên lấy content
 1.
@@ -214,7 +346,7 @@
 4.
 5.
 
-## 9. Quy trình tư vấn hiện tại
+## 11. Quy trình tư vấn hiện tại
 
 - Khi có khách hỏi, hiện tại ai là người trả lời:
 - Thường trả lời trên kênh nào trước:
@@ -234,7 +366,7 @@
 
 - Điểm yếu lớn nhất trong khâu tư vấn hiện tại là gì:
 
-## 10. Khả năng phối hợp triển khai `bắt buộc`
+## 12. Khả năng phối hợp triển khai `bắt buộc`
 
 - Mỗi tuần anh Thọ có thể dành bao nhiêu thời gian để phối hợp:
 - Ai có thể quay video nhanh tại công trình:
@@ -248,7 +380,7 @@
 
 - Trở ngại lớn nhất khi phối hợp triển khai:
 
-## 11. Mức sẵn sàng cho quảng cáo
+## 13. Mức sẵn sàng cho quảng cáo
 
 - Tháng đầu có muốn chạy ads ngay không:
   - [ ] Chưa, chỉ dựng nền
@@ -262,13 +394,15 @@
   - [ ] Tăng nhận diện địa phương
   - [ ] Chưa rõ, cần tư vấn thêm
 
-## 12. Checklist chốt sau buổi gặp
+## 14. Checklist chốt sau buổi gặp
 
 ### Những gì đã lấy được
 - [ ] Thông tin liên hệ đầy đủ
 - [ ] Khu vực ưu tiên
 - [ ] Loại khách muốn đánh chính
 - [ ] Điểm mạnh của xưởng
+- [ ] Thông tin về tài nguyên doanh nghiệp
+- [ ] Thông tin về nhân sự phối hợp
 - [ ] Offer mở cửa dự kiến
 - [ ] Link các kênh hiện có
 - [ ] Danh sách công trình có thể dùng làm content
@@ -282,12 +416,41 @@
 - [ ] Feedback khách
 - [ ] Danh sách khách cũ đầy đủ
 - [ ] Tài khoản hoặc quyền truy cập page/kênh
+- [ ] Danh sách nhân sự và vai trò phụ trách
+- [ ] Thông tin kho lưu trữ ảnh/video hiện có
 - [ ] Khác:
 
-## 13. Ghi chú thêm
+## 15. Ghi chú thêm
 
 - Ghi chú 1:
 - Ghi chú 2:
 - Ghi chú 3:
 - Ghi chú 4:
 - Ghi chú 5:
+
+Giai đoạn Setup Ban Đầu:
+- Chốt khu vực khách: Khu lideco, việt hưng, hoành bồ
+- Phân tích & khai thác thêm độ tuổi, giới tính, tính cách của khách 
+- Setup lại Fanpage facebook
+- Setup kênh Tiktok
+- Gom và phân loại kho ảnh, video, feedback khách hàng, Những công trình cũ & đang làm
+- Viết bộ nội dung nền ban đầu: bài giới thiệu xưởng, bài công trình thật, bài giải thích thị trường, Kêu gọi hành động nhắn tin/gọi điện
+- Tạo kịch bản chốt đơn từ tin nhắn facebook, tiktok
+- Tạo kịch bản & kế hoạch chăm sóc khách hàng cũ
+- Lưu trữ thông tin chi tiết khách hàng gửi tin nhắn/gọi điện từ lúc bắt đầu nhắn tin tới lúc khảo sát, báo giá, chốt đơn 
+
+Giai đoạn Làm Marketing Từ Tháng 1 Đến Tháng 6:
+- Duy trì lịch đăng Facebook và TikTok đều, ưu tiên content thật hơn content bóng bẩy.
+Tập trung 4 nhóm nội dung chính: giáo dục thị trường, Tạo niềm tin từ công trình thật, Kêu gọi khách hàng nhắn tin, Tăng độ lan toả tại địa phương.
+- Tăng dần số lượng thi công công trình theo khu vực để làm niềm tin địa phương.
+- Theo dõi nội dung nào kéo inbox, bình luận, thời gian xem và phản hồi tốt để giữ lại.
+- Tối ưu dần kịch bản chốt đơn theo câu hỏi thật của khách và các tình huống như hỏi giá sớm, đang tham khảo, cần làm gấp.
+- Chuẩn hóa quy trình chuyển đổi từ content sang inbox, khảo sát, báo giá, chốt.
+- Duy trì việc xin feedback và giới thiệu từ khách cũ như một nguồn lead song song với content.
+- Đo các chỉ số cơ bản: số nội dung đăng, số inbox mới, số lead tiềm năng, số lịch khảo sát, số báo giá, tỷ lệ chốt.
+* Từ tháng 3 trở đi bắt đầu test ads nhỏ nếu nền content và quy trình Trả lời tin nhắn khách hàng khi đã đủ ổn.
+- Khi chạy ads, chỉ test ít biến mỗi lần: hook, khu vực, CTA, dạng nội dung hoặc ưu đãi.
+- Ưu tiên ads kéo inbox hoặc cơ hội cho tệp nhà dân khu vực gần, không mở rộng quá sớm.
+- Từ tháng 4 đến tháng 6, giữ lại 1-2 dạng content ra khách tốt nhất và tăng tần suất các nội dung đó.
+- Bắt đầu tách nhẹ nội dung giữa nhà dân phổ thông và nhóm nhà dân có điều kiện hơn nếu đã có đủ case.
+- Chuẩn bị dữ liệu và quy trình để sang giai đoạn sau có thể tăng ngân sách hoặc làm remarketing cơ bản.
